@@ -24,7 +24,7 @@
 },
 {
     "name": "Elminster's Choice",
-    "description": "This dark beer has a thick head and was clouded with yeast. It has a smokey aftertaste."
+    "description": "This dark beer has a thick head and is clouded with yeast. It has a smokey aftertaste."
 },
 {
     "name": "Golden Sands Basic",
@@ -37,4 +37,52 @@
 {
     "name": "Golden Sands Orange",
     "description": "Orange and currant are used to flavor this lager, giving it a slightly acidic aftertaste. This lager is the sweetest of the Golden Sands brews."
+},
+{
+    "name": "Iriaeboran North Brew",
+    "description": "It has a dark amber color combined with a bitter aftertaste. Iriaeborans call this the \"bite of the north winds.\""
+},
+{
+    "name": "Luiren's Best",
+    "description": "A sweet black, thick stout brewed by the Smokardin clan on the coast of Luiren. It is said to be a nice combination with nut cheese."
+},
+{
+    "name": "Old One Eye",
+    "description": "Similar to the brews from Calimshan, this brew has a light coloring but a higher alcohol content compared to its northern counterparts. Old One Eye has a red coloration that develops during the brewing process. The aftertaste is decidedly hot due to its secret ingredients."
+},
+{
+    "name": "Samman",
+    "description": "Samman ale has bitter flavor and is brown in color."
+},
+{
+    "name": "Shadowdark ale",
+    "description": "An ale brewed in Shadowdale with a dark brown cloudy bubbling appearance and a yellow foamy head. Light and bitter in taste."
+},
+{
+    "name": "Sleeping Dragon dark",
+    "description": "Made from the local oats and barley and has a nutty flavor with a pleasant bite."
+},
+{
+    "name": "Slow Spout",
+    "description": "A Duergan ale that is thick and bitter. It is so named because it tended to swirl around in one's insides until it is \"spouted\" back up."
+},
+{
+    "name": "Spruce beer",
+    "description": "An alcoholic beverage made from the spruce tree."
+},
+{
+    "name": "Suzale",
+    "description": "Also known as Purple Dragon ale, is a fine-quality nutty ale."
+},
+{
+    "name": "Tanagyr's Stout",
+    "description": "A heavy black beverage with a malty flavor. It is on par with Evermead when considering its headiness."
+},
+{
+    "name": "Wizard's Quaff",
+    "description": "A locally brewed, low-quality drink. Its only redeeming feature is that it is free to those staying in the inn."
+},
+{
+    "name": "Wyrmwizz",
+    "description": "It is an extremely low quality, muddy beverage."
 }]

@@ -1,0 +1,40 @@
+[{
+    "name": "Baldur's Gate Pale",
+    "description": "A brew from the Cutlass in Luskan."
+},
+{
+    "name": "Baldur's Gate Red Ale",
+    "description": "A red ale sold at Port Llast."
+},
+{
+    "name": "Belbuck",
+    "description": "A transulent green, spearmint beer favored by halflings."
+},
+{
+    "name": "Bitter Black",
+    "description": "This heavy beer tastes best when served at cellar temperatures. Arabellans look down upon anyone drinking it at a different temperature. Bitter Black has a dark black color with a thick head of deep brown foam."
+},
+{
+    "name": "Black Bottom",
+    "description": "An ale with a rough-edged, smoky taste."
+},
+{
+    "name": "Dragon's Breath Beer",
+    "description": "This beer has a strong and harsh flavor. It is best served with dark rye bread and death cheese."
+},
+{
+    "name": "Elminster's Choice",
+    "description": "This dark beer has a thick head and was clouded with yeast. It has a smokey aftertaste."
+},
+{
+    "name": "Golden Sands Basic",
+    "description": "The purest form of the Golden Sands lagers, this brew did not contain any additional flavorings. It has a light yellow coloration."
+},
+{
+    "name": "Golden Sands Gold",
+    "description": "This lager contains flavor from select cacti and nettles, adding a distinctly sharp taste to the drink. It has a deep golden color."
+},
+{
+    "name": "Golden Sands Orange",
+    "description": "Orange and currant are used to flavor this lager, giving it a slightly acidic aftertaste. This lager is the sweetest of the Golden Sands brews."
+}]
